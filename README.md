@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌺 I'm Sandra, and I have been passionate about development since high school. 
-💡I started learning on 'Le Site du Zéro' (a popular French online learning platform)
-🌱 I’m currently learning React and other JavaScript libraries.
+🌺 I'm Sandra, and I have been passionate about development since high school.  
+💡I started learning on 'Le Site du Zéro' (a popular French online learning platform)  
+🌱 I’m currently learning React and other JavaScript libraries.  
 
 
-> ✨ "Great accomplishments are achieved not by strength, but by perseverance." ✨
+✨ "Great accomplishments are achieved not by strength, but by perseverance." ✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-letessier-53a71673/) 
