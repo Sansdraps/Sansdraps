@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 💡I started learning on 'Le Site du Zéro' (a popular French online learning platform)
 🌱 I’m currently learning React and other JavaScript libraries.
 
----
+
 > ✨ "Great accomplishments are achieved not by strength, but by perseverance." ✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-letessier-53a71673/) 
 
----
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
