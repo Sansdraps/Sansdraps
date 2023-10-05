@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning React and other JavaScript libraries.  
 
 
-``` ✨ ***"Great accomplishments are achieved not by strength, but by perseverance."*** ✨ ```
+>✨ ***"Great accomplishments are achieved not by strength, but by perseverance."*** ✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-letessier-53a71673/) 
